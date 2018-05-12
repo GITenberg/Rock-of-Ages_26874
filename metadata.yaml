@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32589
     wikipedia: http://en.wikipedia.org/wiki/Augustus_Montague_Toplady
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26874#Rock-of-Ages
 gutenberg_issued: '2008-11-17'
 gutenberg_type: Text
 identifiers:
